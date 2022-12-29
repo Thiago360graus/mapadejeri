@@ -3,33 +3,34 @@
 ## Action
 
 ### URL
-LinkBehaviour_C019C92E_A223_457D_41DD_21ED7EB85F24.source = https://api.whatsapp.com/send?phone=5588981115465&text=Ol%C3%A1%20tudo%20bem?%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es!
-LinkBehaviour_FC3F92F7_A2DE_C4EA_41D4_7F15383F0BED.source = https://api.whatsapp.com/send?phone=5588981115465&text=Ol%C3%A1%20tudo%20bem?%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es!
 LinkBehaviour_B5E79470_A22E_C3E5_41E1_24FD1A7AA882.source = https://api.whatsapp.com/send?phone=5588981115465&text=Ol%C3%A1%20tudo%20bem?%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es!
+LinkBehaviour_FC3F92F7_A2DE_C4EA_41D4_7F15383F0BED.source = https://api.whatsapp.com/send?phone=5588981115465&text=Ol%C3%A1%20tudo%20bem?%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es!
+LinkBehaviour_C019C92E_A223_457D_41DD_21ED7EB85F24.source = https://api.whatsapp.com/send?phone=5588981115465&text=Ol%C3%A1%20tudo%20bem?%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es!
 LinkBehaviour_FA4075B0_E0EF_8914_41D0_6938580C92E1.source = https://api.whatsapp.com/send?phone=558899978675
 LinkBehaviour_FAA5A5B6_E0E8_891C_41EB_C5F22F063C52.source = https://forms.gle/bPUe7NZHpsyKCb946
 LinkBehaviour_F2F396D8_DE07_E2FE_41D3_57B25D87C7FC.source = https://instagram.com/summeristas?igshid=YmMyMTA2M2Y=
 LinkBehaviour_DA0615CE_CAF4_5CE9_41C0_8D61011C8CEB.source = https://instagram.com/summeristas?igshid=YmMyMTA2M2Y=
-LinkBehaviour_C01AE92F_A223_457B_41D5_FC9757DC83A4.source = https://jeriunidos4x4.com.br/
-LinkBehaviour_FC3FA2F7_A2DE_C4EA_41C7_4D5EB52EB579.source = https://jeriunidos4x4.com.br/
 LinkBehaviour_BAD5628E_A222_C73D_41D6_5E1792955D7D.source = https://jeriunidos4x4.com.br/
+LinkBehaviour_FC3FA2F7_A2DE_C4EA_41C7_4D5EB52EB579.source = https://jeriunidos4x4.com.br/
+LinkBehaviour_C01AE92F_A223_457B_41D5_FC9757DC83A4.source = https://jeriunidos4x4.com.br/
 PopupWebFrameBehaviour_0B5BF045_2CD2_7EFA_41C5_B433BE8100E5.url = https://mapadejeri.com.br/academiaswellness/
 PopupWebFrameBehaviour_44C8FCC7_0F0F_D9E7_4177_CDBF6C895EEE.url = https://mapadejeri.com.br/alambiquepub/
-PopupWebFrameBehaviour_81A057E1_040B_99CB_418F_B1E82BDEB72E.url = https://mapadejeri.com.br/bistrogonoff
 PopupWebFrameBehaviour_80F8ECE2_040F_EFCE_416C_B9624FCD125C.url = https://mapadejeri.com.br/bistrogonoff
+PopupWebFrameBehaviour_81A057E1_040B_99CB_418F_B1E82BDEB72E.url = https://mapadejeri.com.br/bistrogonoff
 PopupWebFrameBehaviour_33DEAB9E_3182_2008_41B5_3FC5442F5582.url = https://mapadejeri.com.br/cocoanuts/
 PopupWebFrameBehaviour_062E5DF0_12E4_B034_4192_6BB9F3C09F56.url = https://mapadejeri.com.br/deliciasdavilla/
-PopupWebFrameBehaviour_013ED616_12E5_D3FD_41A3_17C7858AB70D.url = https://mapadejeri.com.br/jeribrasilfashion/
 PopupWebFrameBehaviour_8C31B099_12AC_F0F7_4191_09552A046564.url = https://mapadejeri.com.br/jeribrasilfashion/
+PopupWebFrameBehaviour_013ED616_12E5_D3FD_41A3_17C7858AB70D.url = https://mapadejeri.com.br/jeribrasilfashion/
 PopupWebFrameBehaviour_01203082_129C_F0D4_418E_74F2F685A64C.url = https://mapadejeri.com.br/pizzariamanjericao/
-PopupWebFrameBehaviour_3A633A5C_0F0B_58E9_41A9_241C19ABF8F5.url = https://mapadejeri.com.br/recantodobarao/
+PopupWebFrameBehaviour_42DE5627_59CD_A801_4199_0F84DF71A96F.url = https://mapadejeri.com.br/recantodobarao/
 PopupWebFrameBehaviour_720D6D2C_0479_AE5A_4181_E2192A27474A.url = https://mapadejeri.com.br/restaurantebomdeboca
 PopupWebFrameBehaviour_0768249D_12AB_70EC_41AA_DC17AA71AEB4.url = https://mapadejeri.com.br/restaurantebomdeboca
 PopupWebFrameBehaviour_07C34CE1_12ED_D057_419A_FDEB2F1CB142.url = https://mapadejeri.com.br/restaurantecatavento/
 PopupWebFrameBehaviour_33DC2777_3186_2018_4180_25740732DB04.url = https://mapadejeri.com.br/spaencantus/
-LinkBehaviour_C019892E_A223_457D_41E3_622D2FB57762.source = https://www.instagram.com/jeriunidos4x4/
-LinkBehaviour_FC3FD2F7_A2DE_C4EA_41DE_9CC78D9F4FE6.source = https://www.instagram.com/jeriunidos4x4/
+PopupWebFrameBehaviour_42E5F089_5936_A801_41C8_9A0AC4CE71CA.url = https://mapadejeri.com.br/surfingjeri/
 LinkBehaviour_BA5DF1F5_A22D_44EE_41BB_00A495E5F626.source = https://www.instagram.com/jeriunidos4x4/
+LinkBehaviour_FC3FD2F7_A2DE_C4EA_41DE_9CC78D9F4FE6.source = https://www.instagram.com/jeriunidos4x4/
+LinkBehaviour_C019892E_A223_457D_41E3_622D2FB57762.source = https://www.instagram.com/jeriunidos4x4/
 
 ## Hotspot
 
@@ -204,39 +205,40 @@ video_05F73CB1_0407_FA4E_4186_0683D58E7BE7.label = praça dia
 video_05F7D795_0406_B676_4195_C7FEDCE08392.label = praça noite
 
 ### Video
-videolevel_48396F6C_5470_68DD_41B8_9D315CB658DF.posterURL = media/video_05F73CB1_0407_FA4E_4186_0683D58E7BE7_poster_pt.jpg
-videolevel_48396F6C_5470_68DD_41B8_9D315CB658DF.url = media/video_05F73CB1_0407_FA4E_4186_0683D58E7BE7_pt.mp4
-videolevel_4839EFC0_5470_67C5_41C4_30CC5F4815D3.posterURL = media/video_05F7D795_0406_B676_4195_C7FEDCE08392_poster_pt.jpg
-videolevel_4839EFC0_5470_67C5_41C4_30CC5F4815D3.url = media/video_05F7D795_0406_B676_4195_C7FEDCE08392_pt.mp4
-videolevel_48384018_5470_5845_41CC_04A9782D7A59.posterURL = media/video_05FB9965_040E_BAD6_4176_7AAFD81CB852_poster_pt.jpg
-videolevel_48384018_5470_5845_41CC_04A9782D7A59.url = media/video_05FB9965_040E_BAD6_4176_7AAFD81CB852_pt.mp4
-videolevel_4838C062_5470_58C5_41CE_EEC3F69815C5.posterURL = media/video_05FD4208_040B_8E5E_4190_278908FF1EA8_poster_pt.jpg
-videolevel_4838C062_5470_58C5_41CE_EEC3F69815C5.url = media/video_05FD4208_040B_8E5E_4190_278908FF1EA8_pt.mp4
-videolevel_483740AF_5470_585C_41C4_AA301EBCE4EF.posterURL = media/video_05FF94AB_0406_8A52_4194_F82C296DDC10_poster_pt.jpg
-videolevel_483740AF_5470_585C_41C4_AA301EBCE4EF.url = media/video_05FF94AB_0406_8A52_4194_F82C296DDC10_pt.mp4
-videolevel_483790FC_5470_59BD_419E_493318F07FEF.posterURL = media/video_3EBC1288_12EB_D0D4_41A7_83FFE47C9A42_poster_pt.jpg
-videolevel_483790FC_5470_59BD_419E_493318F07FEF.url = media/video_3EBC1288_12EB_D0D4_41A7_83FFE47C9A42_pt.mp4
-videolevel_483B0EBC_5470_69BC_41CB_98402B0D5843.posterURL = media/video_811CD1B8_BF44_D700_41D4_0D2CB5DEDB1D_poster_pt.jpg
-videolevel_483B0EBC_5470_69BC_41CB_98402B0D5843.url = media/video_811CD1B8_BF44_D700_41D4_0D2CB5DEDB1D_pt.mp4
-videolevel_483ADF1D_5470_687C_41D4_07858B223339.posterURL = media/video_D9CE4108_CA2B_D569_41D5_F493C46790B6_poster_pt.jpg
-videolevel_483ADF1D_5470_687C_41D4_07858B223339.url = media/video_D9CE4108_CA2B_D569_41D5_F493C46790B6_pt.mp4
-videolevel_483CAE6C_5470_68DC_41CF_9124A2415D33.posterURL = media/video_F21787C0_FD57_544E_41EE_16B346B39E35_poster_pt.jpg
-videolevel_483CAE6C_5470_68DC_41CF_9124A2415D33.url = media/video_F21787C0_FD57_544E_41EE_16B346B39E35_pt.mp4
+videolevel_069380C1_5EF8_84BF_41A1_A302675B632F.posterURL = media/video_05F73CB1_0407_FA4E_4186_0683D58E7BE7_poster_pt.jpg
+videolevel_069380C1_5EF8_84BF_41A1_A302675B632F.url = media/video_05F73CB1_0407_FA4E_4186_0683D58E7BE7_pt.mp4
+videolevel_0696E11C_5EF8_85C4_41BB_9D309BBEB563.posterURL = media/video_05F7D795_0406_B676_4195_C7FEDCE08392_poster_pt.jpg
+videolevel_0696E11C_5EF8_85C4_41BB_9D309BBEB563.url = media/video_05F7D795_0406_B676_4195_C7FEDCE08392_pt.mp4
+videolevel_06885178_5EF8_844C_41D7_A5DBFC1EB9A9.posterURL = media/video_05FB9965_040E_BAD6_4176_7AAFD81CB852_poster_pt.jpg
+videolevel_06885178_5EF8_844C_41D7_A5DBFC1EB9A9.url = media/video_05FB9965_040E_BAD6_4176_7AAFD81CB852_pt.mp4
+videolevel_068361DA_5EF8_844C_4163_DB1D13DC4232.posterURL = media/video_05FD4208_040B_8E5E_4190_278908FF1EA8_poster_pt.jpg
+videolevel_068361DA_5EF8_844C_4163_DB1D13DC4232.url = media/video_05FD4208_040B_8E5E_4190_278908FF1EA8_pt.mp4
+videolevel_0687B241_5EF8_87BC_41D3_2000CA298E11.posterURL = media/video_05FF94AB_0406_8A52_4194_F82C296DDC10_poster_pt.jpg
+videolevel_0687B241_5EF8_87BC_41D3_2000CA298E11.url = media/video_05FF94AB_0406_8A52_4194_F82C296DDC10_pt.mp4
+videolevel_06BBF296_5EF8_84C5_41C5_8A5933AF5E11.posterURL = media/video_3EBC1288_12EB_D0D4_41A7_83FFE47C9A42_poster_pt.jpg
+videolevel_06BBF296_5EF8_84C5_41C5_8A5933AF5E11.url = media/video_3EBC1288_12EB_D0D4_41A7_83FFE47C9A42_pt.mp4
+videolevel_06E6FFFD_5EF9_7C44_41D0_629F9853CA31.posterURL = media/video_811CD1B8_BF44_D700_41D4_0D2CB5DEDB1D_poster_pt.jpg
+videolevel_06E6FFFD_5EF9_7C44_41D0_629F9853CA31.url = media/video_811CD1B8_BF44_D700_41D4_0D2CB5DEDB1D_pt.mp4
+videolevel_0698B06A_5EF8_844C_41D2_2500972BD58A.posterURL = media/video_D9CE4108_CA2B_D569_41D5_F493C46790B6_poster_pt.jpg
+videolevel_0698B06A_5EF8_844C_41D2_2500972BD58A.url = media/video_D9CE4108_CA2B_D569_41D5_F493C46790B6_pt.mp4
+videolevel_06E28FA3_5EF9_7CFC_41B0_BE3B412AFD8E.posterURL = media/video_F21787C0_FD57_544E_41EE_16B346B39E35_poster_pt.jpg
+videolevel_06E28FA3_5EF9_7CFC_41B0_BE3B412AFD8E.url = media/video_F21787C0_FD57_544E_41EE_16B346B39E35_pt.mp4
 
 ## Popup
 
 ### Title
-window_062E9DF0_12E4_B034_4193_8D3964371E92.title = CLIQUE NO X PARA VOLTAR  >>>
-window_0756249F_12AB_70EC_41AE_6E7A717FFDE7.title = CLIQUE NO X PARA VOLTAR  >>>
-window_80FF6CE2_040F_EFCE_4113_EFFD797184A0.title = CLIQUE NO X PARA VOLTAR  >>>
+window_42E5608A_5936_A803_41AD_973F1AC95486.title = CLIQUE NO X PARA FECHAR >>>
+window_42DCD625_59CD_A801_41B9_F3DC955EB831.title = CLIQUE NO X PARA FECHAR >>>
+window_013E2617_12E5_D3FB_41AB_769D38B77CC1.title = CLIQUE NO X PARA VOLTAR  >>>
 window_0120B084_129C_F0DC_41B1_4AC0F4C0C167.title = CLIQUE NO X PARA VOLTAR  >>>
 window_07CCCCE2_12ED_D055_41AB_6E34F794C6BF.title = CLIQUE NO X PARA VOLTAR  >>>
-window_013E2617_12E5_D3FB_41AB_769D38B77CC1.title = CLIQUE NO X PARA VOLTAR  >>>
-window_33DEABA3_3182_2039_41C3_3433FC8760CE.title = CLIQUE NO X PARA VOLTAR  >>>
-window_3A60EA5E_0F0B_58E9_41AE_E230857DC8DF.title = CLIQUE NO X PARA VOLTAR  >>>
+window_0756249F_12AB_70EC_41AE_6E7A717FFDE7.title = CLIQUE NO X PARA VOLTAR  >>>
+window_80FF6CE2_040F_EFCE_4113_EFFD797184A0.title = CLIQUE NO X PARA VOLTAR  >>>
 window_44CF2CC7_0F0F_D9E7_41A2_2F2DC1D91E9D.title = CLIQUE NO X PARA VOLTAR  >>>
 window_33DC2778_3186_2008_41A6_ED138DE07DD8.title = CLIQUE NO X PARA VOLTAR  >>>
 window_0B5B7045_2CD2_7EFA_41BD_8A4AD3EF7760.title = CLIQUE NO X PARA VOLTAR  >>>
+window_062E9DF0_12E4_B034_4193_8D3964371E92.title = CLIQUE NO X PARA VOLTAR  >>>
+window_33DEABA3_3182_2039_41C3_3433FC8760CE.title = CLIQUE NO X PARA VOLTAR  >>>
 
 ## Right Click Menu
 
@@ -247,6 +249,7 @@ TDVAuthor.label = Siga-nos @mapadejeri
 
 ### Image
 Image_0A233574_2CD6_269B_41BC_89DE6FE3C07F.url = skin/Image_0A233574_2CD6_269B_41BC_89DE6FE3C07F_pt.jpg
+Image_1C64ED16_5EC8_BDC5_41D5_CFBDC5BE4E67.url = skin/Image_1C64ED16_5EC8_BDC5_41D5_CFBDC5BE4E67_pt.png
 Image_25339967_0F09_D8A7_4183_23C2F4CECE9A.url = skin/Image_25339967_0F09_D8A7_4183_23C2F4CECE9A_pt.png
 Image_39F4DB50_0F79_58F9_41A8_054266AFA4F4.url = skin/Image_39F4DB50_0F79_58F9_41A8_054266AFA4F4_pt.png
 Image_3A8376DF_0F07_29E7_41A9_8DDE7494C26E.url = skin/Image_3A8376DF_0F07_29E7_41A9_8DDE7494C26E_pt.png
