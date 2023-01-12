@@ -1,7 +1,5 @@
 {
- "start_url": "index.htm?installed=true",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "name": "MAPA DE JERI OFICIAL",
  "icons": [
   {
@@ -40,5 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
  "background_color": "#FFFFFF"
 }
